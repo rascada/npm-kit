@@ -1,0 +1,19 @@
+{
+  "name": "npm-kit",
+  "version": "0.0.0",
+  "description": "cli for npm tasks",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rascada/npm-kit.git"
+  },
+  "author": "Damian Martyniak",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rascada/npm-kit/issues"
+  },
+  "homepage": "https://github.com/rascada/npm-kit#readme"
+}
